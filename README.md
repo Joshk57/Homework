@@ -83,4 +83,4 @@ reversed.
   reverse("q") # => "q"
   reverse("id") # => "di"
   reverse("") # => ""
-```
+```# Homework
